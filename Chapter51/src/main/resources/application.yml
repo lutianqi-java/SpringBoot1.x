@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: spring-boot-mongodb
-  data:
-    mongodb:
-      uri: mongodb://localhost/test
-      username: test
-      password: 123456

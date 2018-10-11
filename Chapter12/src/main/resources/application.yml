@@ -1,3 +1,0 @@
-logging:
-  level:
-    com.yuqiyu.chapter12.controller: 'off'

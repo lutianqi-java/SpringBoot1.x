@@ -1,9 +1,0 @@
-spring:
-  #rabbitmq消息队列配置信息
-  rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
-    virtual-host: /hengboy
-    publisher-confirms: true
