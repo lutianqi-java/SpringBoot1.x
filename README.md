@@ -51,33 +51,48 @@
 |024		|[第二十四章：SpringBoot项目多数据源配置](http://www.jianshu.com/p/9f812e651319)					|Chapter24  |
 |025		|[第二十五章：SpringBoot添加支持Cors跨域访问](http://www.jianshu.com/p/c6ea21b64f6e)					|Chapter25  |
 |026		|[第二十六章：SpringBoot使用@Scheduled创建定时任务](http://www.jianshu.com/p/c7492aeb35a1)					|Chapter26  |
-|027		|[第二十七章：SpringBoot使用ApplicationEvent&Listener完成业务解耦](http://www.jianshu.com/p/4359dd4b36a6)					|Chapter27  |
-|028		|[第二十八章：SpringBoot使用AutoConfiguration自定义Starter](http://www.jianshu.com/p/188065e1137b)					|Chapter28  |
-|029		|[第二十九章：SpringBoot使用Lombok来优雅的编码](http://www.jianshu.com/p/9bd6ce692ab1)					|Chapter29  |
-|030		|[第三十章：SpringBoot使用MapStruct自动映射DTO](http://www.jianshu.com/p/3f20ca1a93b0)					|Chapter30  |
-|031		|[第三十一章：SpringBoot修改tomcat配置参数](http://www.jianshu.com/p/a4bb58331107)					|Chapter31  |
-|032		|[第三十二章：如何获取SpringBoot项目的applicationContext对象](http://www.jianshu.com/p/3cd2d4e73eb7)					|Chapter32  |
-|033		|[第三十三章：修改SpringBoot启动Banner](http://www.jianshu.com/p/c1f7617c99aa)					|Chapter33  |
-|034		|[第三十四章：SpringBoot自定义配置类](http://www.jianshu.com/p/2c2cdb80fe47)					|Chapter34  |
-|035		|[第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/d8f844711bf4)					|Chapter35  |
-|036		|[第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/24ebb66c25cb)					|Chapter36  |
-|037		|[第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证](http://www.jianshu.com/p/e22691d2ad90)					|Chapter37  |
-|038		|[第三十八章：基于SpringBoot架构使用Profile完成打包环境分离](http://www.jianshu.com/p/23b4f882f397)					|Chapter38  |
-|039		|[第三十九章：基于SpringBoot & Quartz完成定时任务分布式单节点持久化](http://www.jianshu.com/p/d52d62fb2ac6)					|Chapter39  |
-|040		|[第四十章：基于SpringBoot & Quartz完成定时任务分布式多节点负载持久化](http://www.jianshu.com/p/49133c107143)					|Chapter40  |
-|041		|[第四十一章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息消费](http://www.jianshu.com/p/6b62a0ed2491)					|Chapter41  |
-|042		|[第四十二章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息多消费者消费](http://www.jianshu.com/p/4cccb48ccef7)					|Chapter42  |
-|043		|[第四十三章： 基于SpringBoot & RabbitMQ完成TopicExchange分布式消息消费](http://www.jianshu.com/p/ca279fb70008)				|Chapter43  |
-|044		|[第四十四章： 基于SpringBoot & AOP完成统一资源自动查询映射](https://www.jianshu.com/u/092df3f77bca)					|Chapter44  |
-|045		|[第四十五章： 基于SpringBoot设计通用框架级别系统异常回调通知处理](https://www.jianshu.com/p/a1e006db24e1)					|Chapter45  |
-|046		|[第四十六章：SpringBoot & RabbitMQ完成消息延迟消费](https://www.jianshu.com/p/b74a14c7f31d)|Chapter46  |
-|047		|[第四十七章：SpringBoot2.0新特性 - Quartz自动化配置集成](https://www.jianshu.com/p/056281e057b3)|Chapter47  |
-|048		|[第四十八章：SpringBoot2.0新特性 - RabbitMQ信任package设置](https://www.jianshu.com/p/13fd9ff0648d)|Chapter48  |
-|049		|[第四十九章：SpringBoot2.0新特性 - 扩展WebMvcConfigurer的两种方式](https://www.jianshu.com/p/77482f0b59e9)|Chapter49  |
-|050		|[第五十章：SpringBoot2.0新特性 - 岂止至今最简单redis缓存集成](https://www.jianshu.com/p/4ccd4512700f)|Chapter50  |
-|051		|[第五十一章：基于SpringBoot2 & mongodb完成自动化集成](https://www.jianshu.com/p/2ec104e4ab39)					|Chapter51  |
-|052		|[第五十二章：使用SpringBoot Data Rest读取MongoDB内的数据](https://www.jianshu.com/p/69da713e18f6)					|Chapter52  |
+|027		|[第二十七章：SpringBoot使用ApplicationEvent&Listener完成业务解耦](http://blog.yuqiyu.com/spring-boot-chapter27.html)					|Chapter27  |
+|028		|[第二十八章：SpringBoot使用AutoConfiguration自定义Starter](http://blog.yuqiyu.com/spring-boot-chapter28.html)					|Chapter28  |
+|029		|[第二十九章：SpringBoot使用Lombok来优雅的编码](http://blog.yuqiyu.com/spring-boot-chapter29.html)					|Chapter29  |
+|030		|[第三十章：SpringBoot使用MapStruct自动映射DTO](http://blog.yuqiyu.com/spring-boot-chapter30.html)					|Chapter30  |
+|031		|[第三十一章：SpringBoot修改tomcat配置参数](http://blog.yuqiyu.com/spring-boot-chapter31.html)					|Chapter31  |
+|032		|[第三十二章：如何获取SpringBoot项目的applicationContext对象](http://blog.yuqiyu.com/spring-boot-chapter32.html)					|Chapter32  |
+|033		|[第三十三章：修改SpringBoot启动Banner](http://blog.yuqiyu.com/spring-boot-chapter33.html)					|Chapter33  |
+|034		|[第三十四章：SpringBoot自定义配置类](http://blog.yuqiyu.com/spring-boot-chapter34.html)					|Chapter34  |
+|035		|[第三十五章：SpringBoot与单元测试的小秘密](http://blog.yuqiyu.com/spring-boot-chapter35.html)					|Chapter35  |
+|036		|[第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载](http://blog.yuqiyu.com/spring-boot-chapter36.html)					|Chapter36  |
+|037		|[第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证](http://blog.yuqiyu.com/spring-boot-chapter37.html)					|Chapter37  |
+|038		|[第三十八章：基于SpringBoot架构使用Profile完成打包环境分离](http://blog.yuqiyu.com/spring-boot-chapter38.html)					|Chapter38  |
+|039		|[第三十九章：基于SpringBoot & Quartz完成定时任务分布式单节点持久化](http://blog.yuqiyu.com/spring-boot-chapter39.html)					|Chapter39  |
+|040		|[第四十章：基于SpringBoot & Quartz完成定时任务分布式多节点负载持久化](http://blog.yuqiyu.com/spring-boot-chapter40.html)					|Chapter40  |
+|041		|[第四十一章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息消费](http://blog.yuqiyu.com/spring-boot-chapter41.html)					|Chapter41  |
+|042		|[第四十二章： 基于SpringBoot & RabbitMQ完成DirectExchange分布式消息多消费者消费](http://blog.yuqiyu.com/spring-boot-chapter42.html)				|Chapter42  |
+|043		|[第四十三章： 基于SpringBoot & RabbitMQ完成TopicExchange分布式消息消费](http://blog.yuqiyu.com/spring-boot-chapter43.html)				|Chapter43  |
+|044		|[第四十四章： 基于SpringBoot & AOP完成统一资源自动查询映射](http://blog.yuqiyu.com/spring-boot-chapter44.html)					|Chapter44 |
+|045		|[第四十五章：基于SpringBoot 设计业务逻辑异常统一处理](http://blog.yuqiyu.com/spring-boot-chapter45.html)					|Chapter45  |
+|046		|[第四十六章：SpringBoot & RabbitMQ完成消息延迟消费](http://blog.yuqiyu.com/spring-boot-chapter46.html)|Chapter46  |
+|047		|[第四十七章：SpringBoot2.0新特性 - Quartz自动化配置集成](http://blog.yuqiyu.com/spring-boot-chapter47.html)|Chapter47  |
+|048		|[第四十八章：SpringBoot2.0新特性 - RabbitMQ信任package设置](http://blog.yuqiyu.com/spring-boot-chapter48.html)|Chapter48  |
+|049		|[第四十九章：SpringBoot2.0新特性 - 你get到WebMvcConfigurer两种配置方式了吗？](http://blog.yuqiyu.com/spring-boot-chapter49.html)|Chapter49  |
+|050		|[第五十章：SpringBoot2.0新特性 - 岂止至今最简单redis缓存集成](http://blog.yuqiyu.com/spring-boot-chapter50.html)|Chapter50  |
+|051		|[第五十一章：基于SpringBoot2 & MongoDB完成自动化集成](http://blog.yuqiyu.com/spring-boot-chapter51.html)					|Chater51  |
+|052		|[第五十二章：使用SpringBoot Data Rest读取MongoDB内的数据](http://blog.yuqiyu.com/spring-boot-chapter52.html)					|---  |
 
+### 有问题要问？
+> 如果你有技术相关的问题想要咨询`恒宇少年`，请去[博客](http://blog.yuqiyu.com)首页左侧导航栏，点击`知识星球`微信扫码加入我的星球。
 
+### 开源信息
+这段时间一直在编写开源的相关框架，致力于公司使用的框架升级以及开源计划，将公司使用到的`工具`以及`插件`进行升级重构并且开源。
+- 代码生成器（Code-Builder）
+`code-builder`代码生成器根据你提供的模板文件（目前支持`freemarker`）自动生成实体类，可以很大很有效的提高开发效率。
+`Gitee地址`：[https://gitee.com/hengboy/code-builder](https://gitee.com/hengboy/code-builder)
+`Github地址`：[https://github.com/hengyuboy/code-builder](https://github.com/hengyuboy/code-builder)
+- 持久化框架（MyBatis-Enhance）
+`mybatis-enhance`是一个对`mybatis`框架的增强封装，提供一系列的内部方法来完成单表数据的操作，多表数据提供`DSL`方式进行操作。
+`Gitee地址`：[https://gitee.com/hengboy/mybatis-enhance](https://gitee.com/hengboy/mybatis-enhance)
+`Github地址`：[https://github.com/hengyuboy/mybatis-enhance](https://github.com/hengyuboy/mybatis-enhance)
+- 自动分页插件
+`MyBatis-Pageable`是一款自动化分页的插件，基于`MyBatis`内部的插件`Interceptor`拦截器编写完成，拦截`Executor.query`的两个重载方法计算出分页的信息以及根据配置的数据库`Dialect`自动执行不同的查询语句完成总数量的统计。
+`Gitee地址`：[https://gitee.com/hengboy/mybatis-pageable](https://gitee.com/hengboy/mybatis-pageable)
 
 
