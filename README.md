@@ -20,7 +20,10 @@
 # 【SpringBoot2.x 核心技术】专题文章对应源码
 |章节           | 文章名称                                                                                                                      |源码项目名称|
 |:-----:        | :---------------------------------------------------------------------|:-----------|
-|1		| SpringBoot核心技术：使用Actuator监控你的应用程序			|hengboy-spring-boot-actuator|
+|1		| [SpringBoot核心技术：探究Actuator的默认开放节点 & 详细健康状态](http://blog.yuqiyu.com/spring-boot-actuator-default.html)			|hengboy-spring-boot-actuator|
+|2              | [SpringBoot核心技术：你了解Actuator开放指定监控节点吗？](http://blog.yuqiyu.com/spring-boot-actuator-exposure-include.html)                      |hengboy-spring-boot-actuator|
+|3              | [SpringBoot核心技术：Actuator远程关闭服务“黑科技”](http://blog.yuqiyu.com/spring-boot-actuator-remote-shutdown.html)                      |hengboy-spring-boot-actuator|
+|4              | [SpringBoot核心技术：Actuator自定义节点路径 & 监控服务自定义配置](http://blog.yuqiyu.com/spring-boot-actuator-change-mapping.html)                      |hengboy-spring-boot-actuator|
 # 【SpringBoot1.x 核心技术】专题文章对应源码
 
 |章节		| 文章名称     															|源码项目名称|
